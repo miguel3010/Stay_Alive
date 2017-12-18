@@ -22,8 +22,8 @@
 
 ## Authors
 
-* **Miguel ¡ngel Campos** - *3D Design & Scripting* - [Linkedin](https://www.linkedin.com/in/miguel-angelcampos) 
-* **EfraÌn PÈrez** - *Scripting* - [Linkedin](https://www.linkedin.com/in/efrain-perez-824bbb148/)
+* **Miguel √Ångel Campos** - *3D Design & Scripting* - [Linkedin](https://www.linkedin.com/in/miguel-angelcampos) 
+* **Efra√≠n P√©rez** - *Scripting* - [Linkedin](https://www.linkedin.com/in/efra%C3%ADn-p%C3%A9rez-824bbb148/)
 * **David Soto** - *Video & Animation* - [Github](https://github.com/dsoto01) 
 * **Anell Zheng** - *Scripting & UI* - [Github](https://github.com/Az04)
-* **Francisco PÈrez** - *Graphic Design & Effects* - [Github](https://www.linkedin.com/in/miguel-angelcampos)  
+* **Francisco P√©rez** - *Graphic Design & Effects* - [Github](https://www.linkedin.com/in/miguel-angelcampos)  
